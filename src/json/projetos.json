@@ -1,0 +1,56 @@
+{
+  "title": {
+    "pt": "Projetos",
+    "en": "Projects"
+  },
+  "projetos": [
+    {
+      "tec": "#ReactNative #Firebase #Node.js",
+      "img": "HomcApp.png",
+      "descricao": {
+        "pt": "Aplicativo IoT para monitoramento de ambientes, com notificações automáticas que alertam o usuário caso a temperatura saia do intervalo estabelecido.",
+        "en": "IoT app for environment monitoring, featuring automatic notifications to alert users if the temperature exceeds the defined range."
+      },
+      "titulo": {
+        "pt": "HomcApp",
+        "en": "HomcApp"
+      }
+    },
+    {
+      "tec": "#React #PHP",
+      "img": "zenth.png",
+      "descricao": {
+        "pt": "Sistema web para monitoramento de dados por meio de uma API, desenvolvido para gerenciar a contagem de ovos em granjas. O sistema apresenta um histórico e relatório detalhado da produção de cada núcleo.",
+        "en": "A web system for data monitoring via API, designed to manage egg counting in farms. The system provides a detailed production history and report for each unit."
+      },
+      "titulo": {
+        "pt": "Zenth",
+        "en": "Zenth"
+      }
+    },
+    {
+      "tec": "#Dart #Flutter #Firebase",
+      "img": "myfarm.png",
+      "descricao": {
+        "pt": "Aplicativo para monitoramento de contêineres vendidos pela empresa, permitindo visualizar todas as variáveis ambientais e acessar duas câmeras em tempo real.",
+        "en": "An app for monitoring the containers sold by the company, allowing users to view all environmental variables and access two real-time cameras."
+      },
+      "titulo": {
+        "pt": "MyFarm",
+        "en": "MyFarm"
+      }
+    },
+    {
+      "tec": "#HTML #CSS #JavaScript",
+      "img": "utfarm.png",
+      "descricao": {
+        "pt": "Website desenvolvido para a empresa UTFARM, projetado para exibir os produtos e serviços oferecidos pela empresa de forma clara e organizada.",
+        "en": "Website developed for UTFARM, designed to showcase the company's products and services in a clear and organized manner."
+      },
+      "titulo": {
+        "pt": "UTFARM-Web",
+        "en": "UTFARM-Web"
+      }
+    }
+  ]
+}

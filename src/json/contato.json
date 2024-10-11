@@ -1,0 +1,46 @@
+{
+  "title": {
+    "pt": "Contato",
+    "en": "Contact"
+  },
+  "numero": {
+    "pt": "Numero",
+    "en": "Phone"
+  },
+  "form": {
+    "nome": {
+      "title": {
+        "pt": "Nome",
+        "en": "Name"
+      },
+      "input": {
+        "pt": "Seu nome",
+        "en": "Your name"
+      }
+    },
+    "email": {
+      "title": {
+        "pt": "Email",
+        "en": "Email"
+      },
+      "input": {
+        "pt": "Seu email",
+        "en": "Your email"
+      }
+    },
+    "mensagem": {
+      "title": {
+        "pt": "Mensagem",
+        "en": "Message"
+      },
+      "input": {
+        "pt": "Mensagem",
+        "en": "Message"
+      }
+    },
+    "enviar": {
+      "pt": "Enviar",
+      "en": "Send"
+    }
+  }
+}

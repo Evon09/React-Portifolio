@@ -1,0 +1,10 @@
+{
+  "pt": {
+    "title": "Tecnologia",
+    "descricao": "Sou um desenvolvedor front-end especializado em criar aplicações web e móveis. Utilizo HTML, CSS e JavaScript/TypeScript para construir interfaces responsivas e interativas. No desenvolvimento web, uso React para criar componentes reutilizáveis e integro com Node.js e MongoDB para APIs eficientes. \n Para aplicativos móveis, trabalho com Flutter e Dart para soluções nativas, além de React Native para compartilhar código entre plataformas. Para design, utilizo Chakra UI e para backend, Firebase para autenticação e armazenamento de dados em tempo real. Com essas tecnologias, desenvolvo soluções completas e integradas."
+  },
+  "en": {
+    "title": "Technology",
+    "descricao": "I am a front-end developer specialized in creating web and mobile applications. I use HTML, CSS, and JavaScript/TypeScript to build responsive and interactive interfaces. For web development, I utilize React to create reusable components and integrate with Node.js and MongoDB for efficient APIs. \n For mobile applications, I work with Flutter and Dart for native solutions, as well as React Native to share code across platforms. For design, I use Chakra UI, and for the backend, I leverage Firebase for authentication and real-time data storage. With these technologies, I develop complete and integrated solutions."
+  }
+}

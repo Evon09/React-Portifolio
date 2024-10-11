@@ -1,0 +1,22 @@
+{
+  "sobre": {
+    "pt": "Sobre",
+    "en": "About"
+  },
+  "tec": {
+    "pt": "Tecnologias",
+    "en": "Technologies"
+  },
+  "experiencia": {
+    "pt": "Experiencias",
+    "en": "Experience"
+  },
+  "projetos": {
+    "pt": "Projetos",
+    "en": "Projects"
+  },
+  "contato": {
+    "pt": "Contato",
+    "en": "Contact"
+  }
+}

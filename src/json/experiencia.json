@@ -1,0 +1,77 @@
+{
+  "pt": "Experiência",
+  "en": "Experience",
+
+  "experiencia": [
+    {
+      "title": {
+        "en": "AUTOFARM",
+        "pt": "AUTOFARM"
+      },
+      "data": {
+        "en": "Feb 2024 - Present",
+        "pt": "Fev 2024 - Presente"
+      },
+      "descricao": {
+        "en": "I was responsible for developing and maintaining the API of an IoT application for kitchen monitoring, sending notifications in case of irregularities. I developed the app using React Native and TypeScript, ensuring integration with IoT sensors. On the backend, I created scalable solutions to process and communicate the collected data. I also developed an IoT sensor using the ESP32 microcontroller for real-time monitoring to enhance safety and efficiency.",
+        "pt": "Fui responsável por desenvolver e manter a API de um aplicativo IoT para monitoramento de cozinhas, enviando notificações em caso de irregularidades. Desenvolvi o aplicativo usando React Native e TypeScript, garantindo a integração com sensores IoT. No backend, criei soluções escaláveis para processar e comunicar os dados coletados. Também desenvolvi um sensor IoT usando o microcontrolador ESP32 para monitoramento em tempo real, visando aumentar a segurança e eficiência."
+      }
+    },
+    {
+      "title": {
+        "en": "MEIU - UTFPR",
+        "pt": "MEIU - UTFPR"
+      },
+      "data": {
+        "en": "Jun 2023 - Aug 2024",
+        "pt": "Jun 2023 - Ago 2024"
+      },
+      "descricao": {
+        "en": "Responsible for the development of a website and API to implement a dashboard, where user, camera, and nucleus registrations were created, as part of a college project (MEIU) in partnership with LAR cooperative.",
+        "pt": "Responsável pelo desenvolvimento de um site e API para implementar um dashboard, onde cadastros de usuários, câmeras e núcleos foram criados, como parte de um projeto acadêmico (MEIU) em parceria com a cooperativa LAR."
+      }
+    },
+    {
+      "title": {
+        "en": "Internship Full stack - Silicon Village",
+        "pt": "Estágio Full Stack - Silicon Village"
+      },
+      "data": {
+        "en": "Jul 2023 - Dec 2023",
+        "pt": "Jul 2023 - Dez 2023"
+      },
+      "descricao": {
+        "en": "Specializing in full-stack development with expertise in Flutter for mobile applications and Next.js for server-rendered React applications. Experienced in building robust APIs using NestJS and integrating real-time features with Firebase.",
+        "pt": "Especializado em desenvolvimento full stack com expertise em Flutter para aplicativos móveis e Next.js para aplicações React com renderização no servidor. Experiência na criação de APIs robustas usando NestJS e na integração de recursos em tempo real com Firebase."
+      }
+    },
+    {
+      "title": {
+        "en": "UTFARM - Junior",
+        "pt": "UTFARM - Júnior"
+      },
+      "data": {
+        "en": "Aug 2022 - Feb 2023",
+        "pt": "Ago 2022 - Fev 2023"
+      },
+      "descricao": {
+        "en": "I worked as a junior developer, where I developed a website and an app for the startup. The app was designed for remote container monitoring and was implemented using the Flutter framework and Firebase as BaaS.",
+        "pt": "Trabalhei como desenvolvedor júnior, onde desenvolvi um site e um aplicativo para a startup. O aplicativo foi projetado para monitoramento remoto de contêineres e foi implementado usando o framework Flutter e o Firebase como BaaS."
+      }
+    },
+    {
+      "title": {
+        "en": "UTFPR - Medianeira, Researcher",
+        "pt": "UTFPR - Medianeira, Pesquisador"
+      },
+      "data": {
+        "en": "Oct 2022 to Sep 2024",
+        "pt": "Out 2022 - Set 2024"
+      },
+      "descricao": {
+        "en": "I was a researcher in the Computational Intelligence Group (GIC), based in the L14b laboratory at UTFPR - Medianeira campus, where I worked on a scientific initiation project to develop educational products related to physics and electronics.",
+        "pt": "Fui pesquisador no Grupo de Inteligência Computacional (GIC), sediado no laboratório L14b na UTFPR - campus Medianeira, onde trabalhei em um projeto de iniciação científica para desenvolver produtos educacionais relacionados à física e eletrônica."
+      }
+    }
+  ]
+}
