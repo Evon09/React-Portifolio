@@ -15,7 +15,7 @@ import { useMouse } from "../context/mouseProvider";
 import contato from "../json/contato.json";
 
 const Contato = () => {
-  var link = `https://formsubmit.co/el/yabalu`;
+  var link = `https://formsubmit.co/c7e5737b197bf307a081f5e7dd89ec26`;
   const { language } = useMouse();
   const text = useColorModeValue(
     theme.colors.light.textPrimary,
