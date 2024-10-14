@@ -63,7 +63,6 @@ const Home = () => {
         align={"center"}
         justify={"center"}
       >
-        Site feito por eu{" "}
       </Flex>
     </Flex>
   );
