@@ -12,8 +12,8 @@
         "en": "IoT app for environment monitoring, featuring automatic notifications to alert users if the temperature exceeds the defined range."
       },
       "titulo": {
-        "pt": "HomcApp",
-        "en": "HomcApp"
+        "pt": "OhmcApp",
+        "en": "OhmcApp"
       }
     },
     {
