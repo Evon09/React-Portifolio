@@ -99,6 +99,7 @@ const Projetos = () => {
               objectFit="contain"
               w="100%"
               h={{ base: "250px", md: "200px" }} // Altura responsiva da imagem
+              loading="lazy"
             />
 
             {/* Conteúdo do Card */}
