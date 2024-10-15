@@ -35,7 +35,7 @@ const Experiencia = () => {
   );
   const { language } = useMouse();
 
-  console.log(bg);
+  
   return (
     <Flex
       id="experiencia"

@@ -20,7 +20,7 @@ const Mouse = () => {
       navigator.userAgent
     );
   };
-  console.log(bg);
+
 
   const variants = {
     default: {
@@ -117,7 +117,7 @@ const Mouse = () => {
             }}
             variants={variants}
             animate={mouseState} // Anima com base no estado do mouse (up ou down)
-            transition={{ type: "spring", stiffness: 300, damping: 20 }} // Suave e realista
+            transition={{ type: "spring", stiffness: 500, damping: 80 }} // Suave e realista
           />
         </>
       )}

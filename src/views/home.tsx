@@ -18,9 +18,19 @@ import Experiencia from "../componentes/experiencia";
 import Tecnologia from "../componentes/tecnologia";
 import Projetos from "../componentes/projetos";
 import Contato from "../componentes/contato";
+import { useEffect } from "react";
+import { useMouse } from "../context/mouseProvider";
+import { useParams } from "react-router-dom";
 
 const Home = () => {
   const bg = useColorModeValue("gray.100", "gray.900");
+  const { lang } = useParams();
+  const { setLanguage, language } = useMouse();
+  useEffect(() => {
+    setLanguage(lang === "pt" || lang === "en" ? lang : "pt");
+    // console.log(lang);
+    // console.log(language);
+  }, [lang]);
 
   return (
     <Flex
@@ -62,8 +72,7 @@ const Home = () => {
         bg={bg}
         align={"center"}
         justify={"center"}
-      >
-      </Flex>
+      ></Flex>
     </Flex>
   );
 };

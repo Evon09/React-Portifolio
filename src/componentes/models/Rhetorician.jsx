@@ -20,7 +20,6 @@ export function Rheto(props) {
   const { actions, names } = useAnimations(animations, group);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
-  console.log("🧑", names);
 
   useEffect(() => {
     actions[names[0]]

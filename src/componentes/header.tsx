@@ -11,7 +11,7 @@ const Header = () => {
     <Flex
       w="100%"
       h={theme.values.headerHegit}
-      bg="rgba(23, 42, 5, 0.5)"
+      bg="rgba(74, 85, 104, 0.5)"
       px={theme.values.px}
       justify={"space-between"}
       position={"fixed"}

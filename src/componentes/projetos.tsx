@@ -92,7 +92,6 @@ const Projetos = () => {
             paddingTop={2}
             bg={bg}
           >
-            <Text>{item.tec}</Text>
             {/* Imagem do Card */}
             <Image
               src={imageSrcs[index] || "../img/file.jpg"} // Substitua pela URL da sua imagem
@@ -111,6 +110,7 @@ const Projetos = () => {
               <Text fontSize="md" color={textDec}>
                 {language === "pt" ? item.descricao.pt : item.descricao.en}
               </Text>
+              <Text>{item.tec}</Text>
             </Stack>
           </Box>
         ))}
