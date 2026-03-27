@@ -86,7 +86,7 @@ const Contato = () => {
                 {language === "pt" ? contato.numero.pt : contato.numero.en}:
               </Text>
               <Flex direction={"column"}>
-                <Text>+351 913 042 913</Text>
+                <Text>+351 917 268 512</Text>
                 <Text>+55 (66) 99669-1566</Text>
               </Flex>
             </Flex>

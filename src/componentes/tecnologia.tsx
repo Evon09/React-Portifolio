@@ -8,20 +8,20 @@ import { useMouse } from "../context/mouseProvider";
 const Tecnologia = () => {
   const text = useColorModeValue(
     theme.colors.light.textPrimary,
-    theme.colors.dark.textPrimary
+    theme.colors.dark.textPrimary,
   );
   const bg = useColorModeValue(
     theme.colors.light.background,
-    theme.colors.dark.background
+    theme.colors.dark.background,
   );
 
   const icon = useColorModeValue(
     theme.colors.dark.background,
-    theme.colors.light.background
+    theme.colors.light.background,
   );
   const secondary = useColorModeValue(
     theme.colors.light.secondary,
-    theme.colors.dark.secondary
+    theme.colors.dark.secondary,
   );
 
   const { language } = useMouse();
@@ -30,20 +30,27 @@ const Tecnologia = () => {
     "CSS",
     "JavaScript",
     "TypeScript",
-    "Node.js",
+    "NodeJS",
+    "NestJS",
+    "NextJS",
     "MongoDB",
+    "PostgreSQL",
+    "MySQL",
     "Flutter",
     "Dart",
     "React",
-    "ReactNative",
+    "React Native",
     "Firebase",
-    "Chakra Ui",
+    "TailwindCSS",
+    "Elixir",
+    "Phoenix",
+    "Chakra UI",
   ];
   return (
     <Flex
       id="tec"
       w="100%"
-      minH={`calc(90vh - ${theme.values.headerHegit})`}
+      minH={`calc(60vh - ${theme.values.headerHegit})`}
       px={theme.values.px}
       gap={theme.values.gap}
       direction={"column"}

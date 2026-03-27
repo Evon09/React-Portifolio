@@ -16,6 +16,12 @@ import {
   SiFirebase,
   Si1Password,
   SiNodeDotJs,
+  SiPostgresql,
+  SiMysql,
+  SiNextDotJs,
+  SiGraphql,
+  SiTailwindcss,
+  SiElixir,
 } from "react-icons/si";
 
 // Dicionário para mapear strings para ícones
@@ -25,17 +31,25 @@ const iconMap: Record<string, IconType> = {
   JavaScript: FaJs,
   TypeScript: SiTypescript,
   MongoDB: SiMongodb,
+  PostgreSQL: SiPostgresql,
+  MySQL: SiMysql,
   Flutter: SiFlutter,
   Dart: SiDart,
   React: FaReact,
-  ReactNative: FaReact, // Mesmo ícone que React, mas você pode customizar se quiser
+  "React Native": FaReact,
+  NextJS: SiNextDotJs,
   Firebase: SiFirebase,
-  "Node.js": SiNodeDotJs,
-  "Chakra Ui": FaBolt,
+  NodeJS: SiNodeDotJs,
+  NestJS: SiNodeDotJs,
+  GraphQL: SiGraphql,
+  TailwindCSS: SiTailwindcss,
+  Elixir: SiElixir,
+  Phoenix: SiElixir,
+  "Chakra UI": FaBolt,
 };
 
 interface IconProps {
-  name: keyof typeof iconMap; // O nome deve ser uma chave válida do dicionário
+  name: keyof typeof iconMap;
   size?: number;
   color?: string;
 }

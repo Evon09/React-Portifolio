@@ -19,23 +19,22 @@ const Experiencia = () => {
   const { setZIndex } = useMouse();
   const bg = useColorModeValue(
     theme.colors.light.background,
-    theme.colors.dark.background
+    theme.colors.dark.background,
   );
   const secondary = useColorModeValue(
     theme.colors.light.secondary,
-    theme.colors.dark.secondary
+    theme.colors.dark.secondary,
   );
   const border = useColorModeValue(
     theme.colors.dark.background,
-    theme.colors.light.background
+    theme.colors.light.background,
   );
   const text = useColorModeValue(
     theme.colors.light.textPrimary,
-    theme.colors.dark.textPrimary
+    theme.colors.dark.textPrimary,
   );
   const { language } = useMouse();
 
-  
   return (
     <Flex
       id="experiencia"
@@ -78,7 +77,7 @@ const Experiencia = () => {
 
                 borderRadius: `calc(${theme.values.headerHegit}/2)`,
                 minH: "5vh",
-                alignContent: "center",
+                alignContent: "left",
                 transition: "0.3s ease",
                 position: "absolute",
                 top: "0",
@@ -152,7 +151,7 @@ const Experiencia = () => {
                   <AccordionIcon />
                 </Flex>
 
-                <AccordionPanel pb={4}>
+                <AccordionPanel textAlign="left" pb={4}>
                   {language === "pt" ? item.descricao.pt : item.descricao.en}
                 </AccordionPanel>
               </AccordionButton>
