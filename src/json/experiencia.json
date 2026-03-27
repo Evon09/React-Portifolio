@@ -1,20 +1,33 @@
 {
   "pt": "Experiência",
   "en": "Experience",
-
   "experiencia": [
+    {
+      "title": {
+        "en": "Software Engineer - Quantum Leap",
+        "pt": "Software Engineer - Quantum Leap"
+      },
+      "data": {
+        "en": "Apr 2025 - Present",
+        "pt": "Abr 2025 - Presente"
+      },
+      "descricao": {
+        "en": "Developing web applications using Elixir, Phoenix and PostgreSQL. Focused on building scalable systems and improving performance, reducing page load time from 60 seconds to 10 seconds. Working with APIs and modern web architectures in an agile environment.",
+        "pt": "Desenvolvimento de aplicações web utilizando Elixir, Phoenix e PostgreSQL. Foco na construção de sistemas escaláveis e otimização de performance, reduzindo o tempo de carregamento de páginas de 60 segundos para 10 segundos. Atuação com APIs e arquiteturas modernas em ambiente ágil."
+      }
+    },
     {
       "title": {
         "en": "AUTOFARM",
         "pt": "AUTOFARM"
       },
       "data": {
-        "en": "Feb 2024 - Present",
-        "pt": "Fev 2024 - Presente"
+        "en": "Feb 2024 - Jul 2025",
+        "pt": "Fev 2024 - Jul 2025"
       },
       "descricao": {
-        "en": "I was responsible for developing and maintaining the API of an IoT application for kitchen monitoring, sending notifications in case of irregularities. I developed the app using React Native and TypeScript, ensuring integration with IoT sensors. On the backend, I created scalable solutions to process and communicate the collected data. I also developed an IoT sensor using the ESP32 microcontroller for real-time monitoring to enhance safety and efficiency.",
-        "pt": "Fui responsável por desenvolver e manter a API de um aplicativo IoT para monitoramento de cozinhas, enviando notificações em caso de irregularidades. Desenvolvi o aplicativo usando React Native e TypeScript, garantindo a integração com sensores IoT. No backend, criei soluções escaláveis para processar e comunicar os dados coletados. Também desenvolvi um sensor IoT usando o microcontrolador ESP32 para monitoramento em tempo real, visando aumentar a segurança e eficiência."
+        "en": "Developed and maintained a mobile IoT application using React Native and TypeScript for real-time kitchen monitoring. Built and integrated scalable backend APIs to process sensor data and trigger notifications in case of irregularities. Integrated IoT devices using ESP32 microcontrollers for real-time data collection, improving operational safety and efficiency.",
+        "pt": "Desenvolvimento e manutenção de aplicação mobile IoT com React Native e TypeScript para monitoramento de cozinhas em tempo real. Criação e integração de APIs escaláveis para processamento de dados e envio de notificações em caso de irregularidades. Integração com dispositivos IoT utilizando ESP32 para coleta de dados em tempo real, melhorando a segurança e eficiência operacional."
       }
     },
     {
@@ -27,13 +40,13 @@
         "pt": "Jun 2023 - Ago 2024"
       },
       "descricao": {
-        "en": "Responsible for the development of a website and API to implement a dashboard, where user, camera, and nucleus registrations were created, as part of a college project (MEIU) in partnership with LAR cooperative.",
-        "pt": "Responsável pelo desenvolvimento de um site e API para implementar um dashboard, onde cadastros de usuários, câmeras e núcleos foram criados, como parte de um projeto acadêmico (MEIU) em parceria com a cooperativa LAR."
+        "en": "Developed a web dashboard for data visualization and management. Integrated frontend with an existing computer vision system (Python-based) to display processed data. Implemented real-time updates using polling techniques.",
+        "pt": "Desenvolvimento de dashboard web para visualização e gerenciamento de dados. Integração do frontend com sistema de visão computacional (baseado em Python) para exibição de dados processados. Implementação de atualização em tempo real utilizando polling."
       }
     },
     {
       "title": {
-        "en": "Internship Full stack - Silicon Village",
+        "en": "Full Stack Intern - Silicon Village",
         "pt": "Estágio Full Stack - Silicon Village"
       },
       "data": {
@@ -41,36 +54,36 @@
         "pt": "Jul 2023 - Dez 2023"
       },
       "descricao": {
-        "en": "Specializing in full-stack development with expertise in Flutter for mobile applications and Next.js for server-rendered React applications. Experienced in building robust APIs using NestJS and integrating real-time features with Firebase.",
-        "pt": "Especializado em desenvolvimento full stack com expertise em Flutter para aplicativos móveis e Next.js para aplicações React com renderização no servidor. Experiência na criação de APIs robustas usando NestJS e na integração de recursos em tempo real com Firebase."
+        "en": "Worked on full-stack development using Next.js for web applications and Flutter for mobile. Developed APIs with NestJS and GraphQL, and integrated real-time features using Firebase.",
+        "pt": "Atuação em desenvolvimento full stack utilizando Next.js para aplicações web e Flutter para mobile. Desenvolvimento de APIs com NestJS e GraphQL, além de integração de funcionalidades em tempo real com Firebase."
       }
     },
     {
       "title": {
-        "en": "UTFARM - Junior",
-        "pt": "UTFARM - Júnior"
+        "en": "UTFARM - Junior Developer",
+        "pt": "UTFARM - Desenvolvedor Júnior"
       },
       "data": {
         "en": "Aug 2022 - Feb 2023",
         "pt": "Ago 2022 - Fev 2023"
       },
       "descricao": {
-        "en": "I worked as a junior developer, where I developed a website and an app for the startup. The app was designed for remote container monitoring and was implemented using the Flutter framework and Firebase as BaaS.",
-        "pt": "Trabalhei como desenvolvedor júnior, onde desenvolvi um site e um aplicativo para a startup. O aplicativo foi projetado para monitoramento remoto de contêineres e foi implementado usando o framework Flutter e o Firebase como BaaS."
+        "en": "Developed web and mobile applications for remote container monitoring using Flutter and Firebase, focusing on real-time data visualization.",
+        "pt": "Desenvolvimento de aplicações web e mobile para monitoramento remoto de contêineres utilizando Flutter e Firebase, com foco na visualização de dados em tempo real."
       }
     },
     {
       "title": {
-        "en": "UTFPR - Medianeira, Researcher",
-        "pt": "UTFPR - Medianeira, Pesquisador"
+        "en": "Researcher - UTFPR (GIC)",
+        "pt": "Pesquisador - UTFPR (GIC)"
       },
       "data": {
-        "en": "Oct 2022 to Sep 2024",
+        "en": "Oct 2022 - Sep 2024",
         "pt": "Out 2022 - Set 2024"
       },
       "descricao": {
-        "en": "I was a researcher in the Computational Intelligence Group (GIC), based in the L14b laboratory at UTFPR - Medianeira campus, where I worked on a scientific initiation project to develop educational products related to physics and electronics.",
-        "pt": "Fui pesquisador no Grupo de Inteligência Computacional (GIC), sediado no laboratório L14b na UTFPR - campus Medianeira, onde trabalhei em um projeto de iniciação científica para desenvolver produtos educacionais relacionados à física e eletrônica."
+        "en": "Researcher in the Computational Intelligence Group (GIC), working on scientific projects related to physics, electronics and educational technologies.",
+        "pt": "Pesquisador no Grupo de Inteligência Computacional (GIC), atuando em projetos científicos relacionados à física, eletrônica e tecnologias educacionais."
       }
     }
   ]
