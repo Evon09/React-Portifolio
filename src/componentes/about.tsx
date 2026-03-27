@@ -1,19 +1,5 @@
 import { Flex, Image, Text, useColorModeValue } from "@chakra-ui/react";
-import React, { Suspense, useEffect, useRef } from "react";
 import theme from "../styles/const";
-import { Canvas, useFrame, useThree } from "@react-three/fiber";
-import { OrbitControls } from "@react-three/drei";
-import { Rheto } from "./models/Rhetorician";
-import { easing } from "maath";
-import { Glitch } from "@react-three/postprocessing"; // Importando o Glitch effect
-import { GlitchMode } from "postprocessing"; // Importando o modo do Glitch effect
-import { Vector2 } from "three";
-import { extend } from "@react-three/fiber";
-
-import { EffectComposer } from "three/examples/jsm/postprocessing/EffectComposer";
-import { RenderPass } from "three/examples/jsm/postprocessing/RenderPass";
-import { GlitchPass } from "three/examples/jsm/postprocessing/GlitchPass";
-import { WebGLRenderer } from "three";
 import sobre from "../json/sobre.json";
 
 import foto from "../img/file.jpg";

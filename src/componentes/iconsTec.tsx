@@ -14,7 +14,6 @@ import {
   SiFlutter,
   SiDart,
   SiFirebase,
-  Si1Password,
   SiNodeDotJs,
   SiPostgresql,
   SiMysql,
