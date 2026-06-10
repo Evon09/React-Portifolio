@@ -3,10 +3,30 @@
     "pt": "Contato",
     "en": "Contact"
   },
-  "numero": {
-    "pt": "Numero",
-    "en": "Phone"
+  "email": {
+    "label": "Email",
+    "address": "jairjsequeira@gmail.com"
   },
+  "github": {
+    "label": "GitHub",
+    "url": "https://github.com/Evon09",
+    "username": "Evon09"
+  },
+  "linkedin": {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/jair-jos%C3%A9-sequeira/",
+    "username": "Jair José Sequeira"
+  },
+  "phones": [
+    {
+      "label": "Portugal",
+      "number": "+351 917 268 512"
+    },
+    {
+      "label": "Brasil",
+      "number": "+55 (66) 99669-1566"
+    }
+  ],
   "form": {
     "nome": {
       "title": {

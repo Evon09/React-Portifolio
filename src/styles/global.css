@@ -3,3 +3,6 @@ html {
     scroll-behavior: smooth;
   }
   
+  canvas {
+  pointer-events: none !important;
+}
