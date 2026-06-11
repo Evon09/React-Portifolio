@@ -5,15 +5,15 @@
     {
       "title": {
         "en": "Software Engineer - Quantum Leap",
-        "pt": "Software Engineer - Quantum Leap"
+        "pt": "Engenheiro de Software - Quantum Leap"
       },
       "data": {
         "en": "Apr 2025 - Present",
         "pt": "Abr 2025 - Presente"
       },
       "descricao": {
-        "en": "Developing web applications using Elixir, Phoenix and PostgreSQL. Focused on building scalable systems and improving performance, reducing page load time from 60 seconds to 10 seconds. Working with APIs and modern web architectures in an agile environment.",
-        "pt": "Desenvolvimento de aplicações web utilizando Elixir, Phoenix e PostgreSQL. Foco na construção de sistemas escaláveis e otimização de performance, reduzindo o tempo de carregamento de páginas de 60 segundos para 10 segundos. Atuação com APIs e arquiteturas modernas em ambiente ágil."
+        "en": "Developing scalable web applications using Elixir, Phoenix LiveView, JavaScript, Tailwind CSS and PostgreSQL. Responsible for implementing performance optimizations that reduced page and streaming component load times from 60 seconds to 10 seconds. Working with AWS infrastructure, APIs and modern web architectures in an agile environment. Actively involved in production deployments and maintenance of live systems.",
+        "pt": "Desenvolvimento de aplicações web escaláveis utilizando Elixir, Phoenix LiveView, JavaScript, Tailwind CSS e PostgreSQL. Responsável por otimizações de performance que reduziram o tempo de carregamento de páginas e componentes de streaming de 60 segundos para 10 segundos. Atuação com infraestrutura AWS, APIs e arquiteturas modernas em ambiente ágil. Participação ativa em deploy e manutenção de sistemas em produção."
       }
     },
     {
@@ -26,8 +26,8 @@
         "pt": "Fev 2024 - Jul 2025"
       },
       "descricao": {
-        "en": "Developed and maintained a mobile IoT application using React Native and TypeScript for real-time kitchen monitoring. Built and integrated scalable backend APIs to process sensor data and trigger notifications in case of irregularities. Integrated IoT devices using ESP32 microcontrollers for real-time data collection, improving operational safety and efficiency.",
-        "pt": "Desenvolvimento e manutenção de aplicação mobile IoT com React Native e TypeScript para monitoramento de cozinhas em tempo real. Criação e integração de APIs escaláveis para processamento de dados e envio de notificações em caso de irregularidades. Integração com dispositivos IoT utilizando ESP32 para coleta de dados em tempo real, melhorando a segurança e eficiência operacional."
+        "en": "Developed and maintained a mobile IoT platform using React Native and TypeScript. Built backend services with NestJS and PostgreSQL, integrated Firebase for authentication and real-time notifications, and implemented MQTT-based communication with AWS IoT Core for sensor data ingestion. The system was designed for real-time monitoring of IoT devices, improving safety and operational efficiency.",
+        "pt": "Desenvolvimento e manutenção de plataforma IoT mobile com React Native e TypeScript. Criação de serviços backend com NestJS e PostgreSQL, integração com Firebase para autenticação e notificações em tempo real, além de comunicação via MQTT com AWS IoT Core para ingestão de dados de sensores. Sistema projetado para monitoramento em tempo real de dispositivos IoT, aumentando segurança e eficiência operacional."
       }
     },
     {
@@ -40,8 +40,8 @@
         "pt": "Jun 2023 - Ago 2024"
       },
       "descricao": {
-        "en": "Developed a web dashboard for data visualization and management. Integrated frontend with an existing computer vision system (Python-based) to display processed data. Implemented real-time updates using polling techniques.",
-        "pt": "Desenvolvimento de dashboard web para visualização e gerenciamento de dados. Integração do frontend com sistema de visão computacional (baseado em Python) para exibição de dados processados. Implementação de atualização em tempo real utilizando polling."
+        "en": "Developed a web dashboard for data visualization and system management using React, TypeScript and PHP-based APIs. Integrated frontend with a computer vision system (Python) to display processed data. Implemented real-time updates using polling strategies and worked as a scholarship researcher in an academic project, contributing to a published scientific paper.",
+        "pt": "Desenvolvimento de dashboard web para visualização e gestão de dados utilizando React, TypeScript e APIs em PHP. Integração do frontend com sistema de visão computacional (Python) para exibição de dados processados. Implementação de atualizações em tempo real utilizando polling e atuação como pesquisador bolsista em projeto acadêmico, com publicação de artigo científico."
       }
     },
     {
@@ -54,8 +54,8 @@
         "pt": "Jul 2023 - Dez 2023"
       },
       "descricao": {
-        "en": "Worked on full-stack development using Next.js for web applications and Flutter for mobile. Developed APIs with NestJS and GraphQL, and integrated real-time features using Firebase.",
-        "pt": "Atuação em desenvolvimento full stack utilizando Next.js para aplicações web e Flutter para mobile. Desenvolvimento de APIs com NestJS e GraphQL, além de integração de funcionalidades em tempo real com Firebase."
+        "en": "Worked on full-stack development using Next.js for web applications and Flutter for mobile applications. Developed APIs with NestJS and GraphQL, implemented PIX and PIX Copia e Cola payment features, and contributed to UI/UX improvements. Used Jest for automated testing and worked with Firebase for real-time features and authentication.",
+        "pt": "Atuação em desenvolvimento full stack utilizando Next.js para aplicações web e Flutter para mobile. Desenvolvimento de APIs com NestJS e GraphQL, implementação de funcionalidades de pagamento PIX e PIX Copia e Cola, além de melhorias de UI/UX. Utilização de Jest para testes automatizados e Firebase para funcionalidades em tempo real e autenticação."
       }
     },
     {
@@ -68,8 +68,8 @@
         "pt": "Ago 2022 - Fev 2023"
       },
       "descricao": {
-        "en": "Developed web and mobile applications for remote container monitoring using Flutter and Firebase, focusing on real-time data visualization.",
-        "pt": "Desenvolvimento de aplicações web e mobile para monitoramento remoto de contêineres utilizando Flutter e Firebase, com foco na visualização de dados em tempo real."
+        "en": "Developed web and mobile applications using Flutter and Firebase (Firestore and Authentication) for remote container monitoring systems. Focused on real-time data visualization of environmental metrics such as temperature, humidity and CO2 levels.",
+        "pt": "Desenvolvimento de aplicações web e mobile utilizando Flutter e Firebase (Firestore e Authentication) para sistemas de monitoramento remoto de contêineres. Foco em visualização de dados em tempo real de métricas ambientais como temperatura, humidade e CO2."
       }
     },
     {
@@ -82,8 +82,8 @@
         "pt": "Out 2022 - Set 2024"
       },
       "descricao": {
-        "en": "Researcher in the Computational Intelligence Group (GIC), working on scientific projects related to physics, electronics and educational technologies.",
-        "pt": "Pesquisador no Grupo de Inteligência Computacional (GIC), atuando em projetos científicos relacionados à física, eletrônica e tecnologias educacionais."
+        "en": "Researcher in the Computational Intelligence Group (GIC), working on academic projects related to physics, electronics and educational technologies. Contributed to the development of a scientific publication in undergraduate research (PIBIC).",
+        "pt": "Pesquisador no Grupo de Inteligência Computacional (GIC), atuando em projetos acadêmicos relacionados à física, eletrônica e tecnologias educacionais. Contribuição para publicação científica em projeto de iniciação científica (PIBIC)."
       }
     }
   ]
