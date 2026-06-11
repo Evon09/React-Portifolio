@@ -5,6 +5,30 @@
   },
   "projetos": [
     {
+      "tec": "•Elixir •Phoenix •JavaScript •MQTT •APIs •IoT •Dashboard",
+      "img": "smart-ring.jpeg",
+      "descricao": {
+        "pt": "Contribuição em uma plataforma IoT enterprise para monitoramento e gestão de dispositivos de água inteligentes. Atuação como desenvolvedor full stack com foco no front-end, trabalhando no backoffice (dashboard administrativo) em Phoenix/Elixir. Responsável por melhorias de interface, implementação de novas funcionalidades no sistema e atualização de APIs existentes. Integração com comunicação baseada em MQTT para troca de mensagens em tempo real entre dispositivos IoT e a plataforma. O sistema permite monitoramento de consumo, gestão de dispositivos e atualização em tempo real de eventos.",
+        "en": "Contributed to an enterprise IoT platform for smart water device monitoring and management. Worked as a full stack developer with focus on front-end, mainly on the Phoenix/Elixir-based backoffice (admin dashboard). Responsible for UI improvements, implementation of new system features, and updates to existing APIs. Integrated MQTT-based communication for real-time messaging between IoT devices and the platform. The system enables consumption monitoring, device management, and real-time event updates."
+      },
+      "titulo": {
+        "pt": "SmartRing® (Quantum Leap)",
+        "en": "SmartRing® (Quantum Leap)"
+      }
+    },
+    {
+      "tec": "•Elixir •Phoenix •JavaScript •UI/UX •Dashboard •Web Systems",
+      "img": "faceguard.png",
+      "descricao": {
+        "pt": "Contribuição em uma plataforma enterprise de videovigilância inteligente focada em segurança e privacidade. Atuação como desenvolvedor front-end no backoffice (dashboard administrativo), responsável por melhorias de interface e implementação de novas funcionalidades na aplicação. O sistema permite monitoramento de câmeras, gestão de eventos e operação de ferramentas administrativas da plataforma em tempo real.",
+        "en": "Contributed to an enterprise intelligent video surveillance platform focused on security and privacy. Worked as a front-end developer on the backoffice (admin dashboard), responsible for UI improvements and implementation of new application features. The system enables camera monitoring, event management, and operation of administrative tools in real time."
+      },
+      "titulo": {
+        "pt": "FaceGuard® (Quantum Leap)",
+        "en": "FaceGuard® (Quantum Leap)"
+      }
+    }
+    {
       "tec": "•ReactNative •Firebase •Node.js ",
       "img": "HomcApp.png",
       "descricao": {
